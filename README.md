@@ -16,11 +16,11 @@
 
 ### Гиперссылки
 
-[Google] (https://www.google.ru/)
+[Google](https://www.google.ru/)
 
 ### Картинки
 
-![Demo] (https://adena.by/images/demo-versia-1sbitrix.jpg)
+![Demo](https://adena.by/images/demo-versia-1sbitrix.jpg)
 
 ```java
 class Main{
