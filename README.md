@@ -1,32 +1,11 @@
-# Demo project
+# NeroStartUp
 
-## Текст
+![NeroStartUpLogo](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
-**Жирный текст**, *Курсивый текст*, ~~Перечеркнутый текст~~
+*NeroStartUp* - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искуственного интелекта.
 
-### Списки
-
-Список 1:
-* Позиция 1
-* Позиция 2
-
-Список 2:
-1. Позиция 1
-2. Позиция 2
-
-### Гиперссылки
-
-[Google](https://www.google.ru/)
-
-### Картинки
-
-![Demo](https://adena.by/images/demo-versia-1sbitrix.jpg)
-
-```java
-class Main{
-	public static void main(String[] args){
-		System.out.println("Demo");
-	}
-}
-```
+Наши преимущества:
+*Высокая точность поиска
+"Высокая скорость поиска
+"Низкая цена
 
